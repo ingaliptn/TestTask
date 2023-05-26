@@ -1,0 +1,15 @@
+D:\Projects\TeatTask\TeatTask\bin\Debug\net6.0\TeatTask.exe
+D:\Projects\TeatTask\TeatTask\bin\Debug\net6.0\TeatTask.deps.json
+D:\Projects\TeatTask\TeatTask\bin\Debug\net6.0\TeatTask.runtimeconfig.json
+D:\Projects\TeatTask\TeatTask\bin\Debug\net6.0\TeatTask.dll
+D:\Projects\TeatTask\TeatTask\bin\Debug\net6.0\TeatTask.pdb
+D:\Projects\TeatTask\TeatTask\obj\Debug\net6.0\TeatTask.csproj.AssemblyReference.cache
+D:\Projects\TeatTask\TeatTask\obj\Debug\net6.0\TeatTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\TeatTask\TeatTask\obj\Debug\net6.0\TeatTask.AssemblyInfoInputs.cache
+D:\Projects\TeatTask\TeatTask\obj\Debug\net6.0\TeatTask.AssemblyInfo.cs
+D:\Projects\TeatTask\TeatTask\obj\Debug\net6.0\TeatTask.csproj.CoreCompileInputs.cache
+D:\Projects\TeatTask\TeatTask\obj\Debug\net6.0\TeatTask.dll
+D:\Projects\TeatTask\TeatTask\obj\Debug\net6.0\refint\TeatTask.dll
+D:\Projects\TeatTask\TeatTask\obj\Debug\net6.0\TeatTask.pdb
+D:\Projects\TeatTask\TeatTask\obj\Debug\net6.0\TeatTask.genruntimeconfig.cache
+D:\Projects\TeatTask\TeatTask\obj\Debug\net6.0\ref\TeatTask.dll
